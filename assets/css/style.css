@@ -1,0 +1,24 @@
+h2 {
+    color: white;
+    background-color: orangered;
+}
+
+h1 {
+color: white;
+
+}
+body {
+background-image: url("../images/bi-background-light-blue.png");
+}
+p {
+    color: white;
+}
+h3 {
+color: greenyellow;
+}
+
+
+#text {
+   color: white;
+   text-align: center;
+}
